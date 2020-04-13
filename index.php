@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<title>Login Page</title>
+<title>Login Page examples</title>
 </head>
 <body>
 <form name="loginForm" method="post" action="login.php">
